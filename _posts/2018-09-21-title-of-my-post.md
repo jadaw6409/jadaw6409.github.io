@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Jada Williams, Horrible Cop, Launches Site"
-date: 2014-04-30
+title: "Jada Williams, Computer Science"
+date: 2018-09-21
 ---
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+When hearing about this class for the first time I was skeptical, I say that because I was scared on how I was going to do in that class. So when hearing that we had to first create a blog for class I was excited. But after seeing how to create the code and layout for it I was upset on the process. 
