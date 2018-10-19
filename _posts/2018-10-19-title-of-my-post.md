@@ -1,1 +1,6 @@
+---
+layout: post
+title: "Jada Williams Computer Science Reflection"
+date: 2018-10-12
+---
 
