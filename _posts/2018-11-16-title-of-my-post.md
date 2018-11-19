@@ -1,1 +1,7 @@
+---
+layout: post
+title: "Jada Williams Computer Science Reflection"
+date: 2018-11-16
+---
 
+Week 9: Welcome back to the blog ;) this week's class was pretty short due to the fact many other school activities took place in the same week. But in class we went over basic fields, which were strings/boolean/number. In a warm up we wrote down nine rows of data containing either a number,string, or boolean code with that info we had to identify what type of data was being presented, was it quantative or qualitative? After talking in groups we as a class started to come up with questions that were look-up/Analysis/or computed. For example a look-up question would be What gender is Sasha? on google classroom we had a chart that contained different types of data and based off of the chart you can answer that question. On the other hand an anaylsis question would be over time what can you tell about the data, like a computed question would those two types are questions are similar but can also be very different. In addition to that the next class day we took this info and formated our own tables with qualitative data, we also were lucky enought to have a speaker from a comapny called Coda come into class to speak with us about the organization of data. Some connections that can be made is the overall idea on Data types, with being able to create data definitions so the computer can recognize what we want as a result or the output. However I was able to keep up with the information that was presented to us, and overall I liked the concept of which we learned. 
