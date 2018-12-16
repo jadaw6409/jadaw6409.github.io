@@ -20,5 +20,5 @@ sass= circle(60,"solid","white")
 kk= place-image(girl,400/2,240/2,r)
 so= place-image(bruh,420/2,240/2,kk)
 bash= place-image(so,460/2,240/2,sass)
-wow= star(60,"solid","red")```
+wow= star(60,"solid","red")``` 
 This code here helped create the proper measurements that I struggled creating when I first started the project. In addition with this code if I were to modify and enhance one piece it would be easier to make everything (the flag) remain proportion than making the flag a specific measure of number like I did in the beginning. And just to clarify I just randomly named these functions are definitions based on things I sometimes say, they have no coralation to actual names/or functions. However I still have a lot to pick up on a finish to make my Tunisian flag the offical final product. So lets hope the flag comes out great. 
