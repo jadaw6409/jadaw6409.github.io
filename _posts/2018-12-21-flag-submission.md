@@ -12,7 +12,7 @@ date: 2018-12-21
 ## Current output
 - my current 
 * * *
-![Flag](/images/https://code.pyret.org/editor#program=19czu9A-q4SKlTLB6AfBrEevroRuNPfXx)
+![Flag](/images/http://flags.fmcdn.net/data/flags/w580/gr.png)
 * * *
 
 ## Describe your process.
