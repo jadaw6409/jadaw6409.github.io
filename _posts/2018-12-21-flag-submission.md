@@ -11,9 +11,7 @@ date: 2018-12-21
 
 ## Current output
 - my current 
-* * *
 ![Flag](http://flags.fmcdn.net/data/flags/w580/gr.png)
-* * *
 
 ## Describe your process.
 - In the beginning of the project I was having a hard time understanding and processing how to create the flag ratios. After creating the basic code,like height/width/size and other adjustments I was then able to make the actual shape like a stripes on the flag or one of the symbols needed to form the flag of Greece. Some strategies I used was working with my teacher Mr.Allata to first know what we were trying to solve and "break the big problems into smaller pieces". Later when I did the program my main focus was making the cross because it was what tied the flag itself together. Also after knowing what I needed to do and make it somewhat became easier to answer questions on what I had to change but I overall struggled with some basic concepts because I was unsure if I was taking the "right step".
