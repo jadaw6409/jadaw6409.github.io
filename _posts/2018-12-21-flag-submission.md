@@ -19,7 +19,8 @@ date: 2018-12-21
 - In the beginning of the project I was having a hard time understanding and processing how to create the flag ratios. After creating the basic code,like height/width/size and other adjustments I was then able to make the actual shape like a stripes on the flag or one of the symbols needed to form the flag of Greece. Some strategies I used was working with my teacher Mr.Allata to first know what we were trying to solve and "break the big problems into smaller pieces". Later when I did the program my main focus was making the cross because it was what tied the flag itself together. Also after knowing what I needed to do and make it somewhat became easier to answer questions on what I had to change but I overall struggled with some basic concepts because I was unsure if I was taking the "right step".
 
 ## Explain your code.
-- So as you can see this is a section of my program, 
+- So as you can see this is a section of my program,Within this section of 15 lines of the program you are able to know the size,width,height,stripe-height and much more about my flag. The first thing needed to make the flag was the size because without a scaled size the stripes and symbols would not be aligned. We created a segment called Stripe-height,blue-height,white-height,square-height because on the flag of Greece there are stripes that contain a particular width and height. So using measurements given to me I was able to know that the stripes take up about 2/18 of the flag. So each stripe is 2/18 (height) of the flag, we also know that everything in that area associated with height is creating a height put. For example white-height that is making a height of the white cross used in the flag, blue-height creates the height of the square. But the lower half is were I put the pieces together, I had to make the stripes by overlapping the white rectangles over the blue rectangle, then increase the height so the blue would still be visable. Independently the section where it tells you the heights they count as numbers, so if they are not placed together it would give you just a decimal in return. 
+
 ```size=100 
 height= size * 2
 width= size * 3 
@@ -40,7 +41,6 @@ base=place-image(white, 1/2 * width, 1.5 * stripe-height,
 
 five-stripe = 5 * stripe-height
 ```
-Within this section of 15 lines of the program you are able to know the size,width,height,stripe-height and much more about my flag. The first thing needed to make the flag was the size because without a scaled size the stripes and symbols would not be aligned. We created a segment called Stripe-height,blue-height,white-height,square-height because on the flag of Greece there are stripes that contain a particular width and height. So using measurements given to me I was able to know that the stripes take up about 2/18 of the flag. So each stripe is 2/18 (height) of the flag, we also know that everything in that area associated with height is creating a height put. For example white-height that is making a height of the white cross used in the flag, blue-height creates the height of the square. But the lower half is were I put the pieces together, I had to make the stripes by overlapping the white rectangles over the blue rectangle, then increase the height so the blue would still be visable. Independently the section where it tells you the heights they count as numbers, so if they are not placed together it would give you just a decimal in return. 
 
 * * *
 
