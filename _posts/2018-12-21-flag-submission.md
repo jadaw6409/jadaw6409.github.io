@@ -12,7 +12,7 @@ date: 2018-12-21
 ## Current output
 - my current 
 * * *
-![Flag](/images/http://flags.fmcdn.net/data/flags/w580/gr.png)
+![Flag](http://flags.fmcdn.net/data/flags/w580/gr.png)
 * * *
 
 ## Describe your process.
